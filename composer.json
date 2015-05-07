@@ -1,0 +1,11 @@
+{
+	"name": "flownative/file-manipulate",
+	"type": "Library",
+	"description": "Apply defined manipulations to files.",
+	"license": ["MIT"],
+	"autoload": {
+		"psr-4": {
+			"Flownative\\File\\Manipulate\\": "Classes"
+		}
+	}
+}
